@@ -248,7 +248,7 @@ Também desenvolvo soluções envolvendo:
 </p>
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:matheus.fernandes.carillo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/matheus-fernandes-carillo-899050188/">
