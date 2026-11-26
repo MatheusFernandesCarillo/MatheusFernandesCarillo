@@ -239,20 +239,25 @@ Também desenvolvo soluções envolvendo:
 
 <br/>
 
-## 🤝 Vamos conversar?
+<h2 align="center">🤝 Vamos conversar?</h2>
 
-Aberto a **oportunidades profissionais, networking e colaboração** em projetos de tecnologia e dados.
+<p align="center">
+  Estou aberto a oportunidades na área de Dados e Business Intelligence.
+  <br>
+  Se quiser conversar sobre projetos, oportunidades ou trocar experiências, entre em contato!
+</p>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/matheus-fernandes-carillo-899050188/">
-<img src="https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://matheusfernandescarillo.github.io/Portfolio-site/">
-<img src="https://img.shields.io/badge/Ver_Portf%C3%B3lio-F2C811?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfólio"/>
-</a>
-
+<p align="center">
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-fernandes-carillo-899050188/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://matheusfernandescarillo.github.io/Portfolio-site/">
+    <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
 <br/><br/>
 
 ⭐ *Obrigado por visitar meu perfil! Explore meus projetos e acompanhe minha evolução na área de dados.*
