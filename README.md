@@ -174,6 +174,25 @@ Também desenvolvo soluções envolvendo:
 
 ## 💼 Experiência Profissional
 
+<details>
+<summary><b>⚡ VERTXION — Desenvolvedor de Aplicações e Soluções com IA | Projeto Freelance</b></summary>
+<br/>
+
+- Desenvolvimento de uma aplicação para análise de desempenho e condições operacionais de máquinas industriais.
+- Construção de interfaces e fluxos utilizando FlutterFlow.
+- Estruturação e integração de banco de dados com Supabase.
+- Integração com Firebase para armazenamento e gerenciamento de arquivos.
+- Desenvolvimento de automações e integrações utilizando n8n.
+- Integração de modelos de inteligência artificial para análise de dados, identificação de desvios e geração de diagnósticos.
+- Implementação de lógica para classificação de condições operacionais e identificação de anomalias.
+- Geração automatizada de relatórios técnicos com resultados e recomendações.
+
+**Tecnologias:** FlutterFlow, Supabase, PostgreSQL, Firebase, n8n, APIs e Inteligência Artificial.
+
+🔗 [Acessar aplicação](https://vertxion-analise.flutterflow.app/)
+
+</details>
+
 <details open>
 <summary><b>📊 Dinamic Real — Análise de Dados e Business Intelligence</b> <sub>(Fev/2025 – Jul/2025)</sub></summary>
 <br/>
@@ -212,7 +231,7 @@ Também desenvolvo soluções envolvendo:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusFernandesCarillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF" alt="GitHub Stats"/>
+
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFernandesCarillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=F2C811&text_color=FFFFFF" alt="Top Languages"/>
 
